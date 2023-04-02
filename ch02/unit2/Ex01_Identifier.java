@@ -4,7 +4,7 @@ package ch02.unit2;
  - 식별자
    : 자바유니코드레터로 시작(A~Z, a~z, _, $, 각국언어)
    : 숫자를 포함할 수 있다.
-   : 예역어는 불가 
+   : 예약어는 불가 
  */
 public class Ex01_Identifier {
 	public static void main(String[] args) {
