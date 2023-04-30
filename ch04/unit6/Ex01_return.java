@@ -1,5 +1,4 @@
 package ch04.unit6;
-// return은 배열끝나고 자세히 진도 나감 지금은 간단히만!
 
 import java.util.Scanner;
 
